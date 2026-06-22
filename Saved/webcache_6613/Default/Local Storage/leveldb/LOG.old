@@ -1,0 +1,15 @@
+2026/06/21-20:12:30.217 a380 Reusing MANIFEST C:\Users\lynn\Documents\Unreal Projects\mygame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/21-20:12:30.232 a380 Recovering log #150
+2026/06/21-20:12:30.235 a380 Reusing old log C:\Users\lynn\Documents\Unreal Projects\mygame\Saved\webcache_6613\Default\Local Storage\leveldb/000150.log 
+2026/06/21-20:39:58.172 ea60 Level-0 table #154: started
+2026/06/21-20:39:58.177 ea60 Level-0 table #154: 68150 bytes OK
+2026/06/21-20:39:58.180 ea60 Delete type=0 #150
+2026/06/21-20:39:58.181 ea60 Compacting 4@0 + 1@1 files
+2026/06/21-20:39:58.186 ea60 Generated table #155@0: 9 keys, 30897 bytes
+2026/06/21-20:39:58.186 ea60 Compacted 4@0 + 1@1 files => 30897 bytes
+2026/06/21-20:39:58.187 ea60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/21-20:39:58.188 ea60 Delete type=2 #144
+2026/06/21-20:39:58.189 ea60 Delete type=2 #147
+2026/06/21-20:39:58.189 ea60 Delete type=2 #149
+2026/06/21-20:39:58.189 ea60 Delete type=2 #151
+2026/06/21-20:39:58.189 ea60 Delete type=2 #154

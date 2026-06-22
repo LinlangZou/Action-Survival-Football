@@ -1,0 +1,51 @@
+2026/06/21-21:10:49.921 f4c4 Reusing MANIFEST C:\Users\lynn\Documents\Unreal Projects\mygame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/21-21:10:49.927 f4c4 Recovering log #153
+2026/06/21-21:10:49.931 f4c4 Reusing old log C:\Users\lynn\Documents\Unreal Projects\mygame\Saved\webcache_6613\Default\Local Storage\leveldb/000153.log 
+2026/06/21-21:11:57.195 f50c Level-0 table #158: started
+2026/06/21-21:11:57.210 f50c Level-0 table #158: 87668 bytes OK
+2026/06/21-21:11:57.212 f50c Delete type=0 #153
+2026/06/21-23:58:47.147 f50c Level-0 table #160: started
+2026/06/21-23:58:47.155 f50c Level-0 table #160: 69693 bytes OK
+2026/06/21-23:58:47.159 f50c Delete type=0 #157
+2026/06/21-23:59:11.240 f50c Level-0 table #162: started
+2026/06/21-23:59:11.248 f50c Level-0 table #162: 70736 bytes OK
+2026/06/21-23:59:11.249 f50c Delete type=0 #159
+2026/06/21-23:59:42.687 f50c Level-0 table #164: started
+2026/06/21-23:59:42.693 f50c Level-0 table #164: 73809 bytes OK
+2026/06/21-23:59:42.694 f50c Delete type=0 #161
+2026/06/21-23:59:42.696 f50c Compacting 4@0 + 1@1 files
+2026/06/21-23:59:42.703 f50c Generated table #165@0: 9 keys, 28449 bytes
+2026/06/21-23:59:42.703 f50c Compacted 4@0 + 1@1 files => 28449 bytes
+2026/06/21-23:59:42.704 f50c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/21-23:59:42.705 f50c Delete type=2 #155
+2026/06/21-23:59:42.705 f50c Delete type=2 #158
+2026/06/21-23:59:42.706 f50c Delete type=2 #160
+2026/06/21-23:59:42.706 f50c Delete type=2 #162
+2026/06/21-23:59:42.706 f50c Delete type=2 #164
+2026/06/21-23:59:59.630 f50c Level-0 table #167: started
+2026/06/21-23:59:59.637 f50c Level-0 table #167: 76981 bytes OK
+2026/06/21-23:59:59.639 f50c Delete type=0 #163
+2026/06/22-00:00:27.179 f50c Level-0 table #169: started
+2026/06/22-00:00:27.186 f50c Level-0 table #169: 79846 bytes OK
+2026/06/22-00:00:27.188 f50c Delete type=0 #166
+2026/06/22-00:00:59.054 f50c Level-0 table #171: started
+2026/06/22-00:00:59.077 f50c Level-0 table #171: 83058 bytes OK
+2026/06/22-00:00:59.079 f50c Delete type=0 #168
+2026/06/22-00:01:22.913 f50c Level-0 table #173: started
+2026/06/22-00:01:22.953 f50c Level-0 table #173: 85478 bytes OK
+2026/06/22-00:01:22.955 f50c Delete type=0 #170
+2026/06/22-00:01:22.956 f50c Compacting 4@0 + 1@1 files
+2026/06/22-00:01:22.961 f50c Generated table #174@0: 9 keys, 32097 bytes
+2026/06/22-00:01:22.961 f50c Compacted 4@0 + 1@1 files => 32097 bytes
+2026/06/22-00:01:22.961 f50c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/22-00:01:22.962 f50c Delete type=2 #165
+2026/06/22-00:01:22.963 f50c Delete type=2 #167
+2026/06/22-00:01:22.963 f50c Delete type=2 #169
+2026/06/22-00:01:22.963 f50c Delete type=2 #171
+2026/06/22-00:01:22.963 f50c Delete type=2 #173
+2026/06/22-00:01:42.046 f50c Level-0 table #176: started
+2026/06/22-00:01:42.071 f50c Level-0 table #176: 88058 bytes OK
+2026/06/22-00:01:42.072 f50c Delete type=0 #172
+2026/06/22-00:05:14.029 f50c Level-0 table #178: started
+2026/06/22-00:05:14.035 f50c Level-0 table #178: 91114 bytes OK
+2026/06/22-00:05:14.037 f50c Delete type=0 #175

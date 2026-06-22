@@ -1,0 +1,11 @@
+[32724:14064:0621/211049.718:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32724:14064:0621/211049.850:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[51424:34828:0621/211055.797:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B248DA051F45CC9865D92A6029FF9D86 will be ignored
+[41972:29956:0621/211057.196:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-9A98984CC2A33224CE56FACC5E8A2954 will be ignored
+[32724:14064:0621/220949.733:ERROR:device_event_log_impl.cc(196)] [22:09:49.451] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
+[32724:14064:0621/221016.423:ERROR:device_event_log_impl.cc(196)] [22:10:16.157] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
+[21600:57644:0621/235841.576:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-67779AA96ACC6AC8F1E1BB8D549B32F8 will be ignored
+[32724:14064:0622/010625.059:ERROR:device_event_log_impl.cc(196)] [01:06:25.029] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[32724:14064:0622/010625.084:ERROR:device_event_log_impl.cc(196)] [01:06:25.069] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
+[32724:14064:0622/060559.980:ERROR:device_event_log_impl.cc(196)] [06:05:59.916] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[32724:14064:0622/062750.560:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
